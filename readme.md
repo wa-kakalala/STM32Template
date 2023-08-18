@@ -6,4 +6,5 @@ Holds standard library templates for various models of STM32 microcontrollers.
 
 ## 2. Component List
 
-- STM32C8T6
+- STM32F103C8T6
+- STM32F401CC
